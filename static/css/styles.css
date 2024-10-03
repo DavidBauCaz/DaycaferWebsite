@@ -9,13 +9,14 @@ p {
 }
 
 body{
-    padding-top: 3.5em;
+    padding-top: 4em;
 }
 /*------------------------------------*/
 /*nav start*/
 nav {
 	align-items: center;
-	background: #212121;
+	/*background: #212121;*/
+	background-color: rgba(33, 33, 33, 0.9);
 	display: flex;
 	justify-content: space-evenly;
 	left: 0;
